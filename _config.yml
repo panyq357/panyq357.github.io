@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog of panyq357
+title: 小田冰禾的博客
+author: 小田冰禾 # this will display in the footer (above email).
 email: panyq357@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a experimental blog of panyq357.
+  一个实验性博客。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -29,6 +30,8 @@ github_username:  panyq357
 
 # Build settings
 theme: minima
+minima:
+  date_format: "%Y/%m/%d"
 plugins:
   - jekyll-feed
 

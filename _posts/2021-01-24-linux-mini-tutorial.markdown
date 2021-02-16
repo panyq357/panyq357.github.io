@@ -2,7 +2,7 @@
 layout: post
 title:  "Linux 入门小教程"
 date:   2021-01-24 9:43:00 +0800
-categories: tutorial
+categories: 教程
 ---
 
 ## 前言
@@ -482,6 +482,6 @@ $
 1. [鸟哥的 Linux 私房菜](https://linux.vbird.org/)
    台湾同胞撰写的 Linux 教程，文风幽默，相当经典。
 2. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-   MIT 的大杂烩课程，什么都讲，但都不深入。
+   MIT 的大杂烩课程，什么都讲。
 3. [网道 - Bash 脚本教程](https://wangdoc.com/bash/)
    阮一峰撰写的 Bash 脚本教程，实用性很强。

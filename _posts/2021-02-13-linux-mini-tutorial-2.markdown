@@ -2,7 +2,7 @@
 layout: post
 title:  "Linux 入门小教程（续）"
 date:   2021-02-13 15:57:00 +0800
-categories: tutorial
+categories: 教程
 ---
 
 在上一个小教程中，我们学习了目录的“增”、“删”、“改”、“查”和文件的“增”、“删”、“改”、“查”。

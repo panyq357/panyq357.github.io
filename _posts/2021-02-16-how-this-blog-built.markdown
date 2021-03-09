@@ -27,6 +27,13 @@ source ~/.bashrc
 ```
 
 ```bash
+# （可选）使用 TUNA 的 Ruby Gems 镜像。
+gem sources --add https://mirrors.tuna.tsinghua.edu.cn/rubygems/ --remove https://rubygems.org/
+```
+
+> 参考：<https://mirrors.tuna.tsinghua.edu.cn/help/rubygems/>
+
+```bash
 # 安装 Jekyll 和 Bundler。
 gem install jekyll bundler
 ```
